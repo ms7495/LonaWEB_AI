@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
